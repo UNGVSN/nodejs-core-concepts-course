@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-core-concepts-course",
+  "version": "1.0.0",
+  "description": "Pure Node.js mastery course — zero npm packages, deep runtime understanding",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "audit": "make audit",
+    "count": "make count"
+  },
+  "keywords": [
+    "nodejs",
+    "core-modules",
+    "streams",
+    "buffers",
+    "networking",
+    "http",
+    "cryptography",
+    "worker-threads"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
